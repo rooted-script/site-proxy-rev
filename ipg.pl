@@ -1,4 +1,4 @@
-# Obfuscated by www.perlobfuscator.com
+
 eval eval '"'.
 
 
