@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# Obfuscated by www.perlobfuscator.com
+
 eval eval '"'.
 
 
